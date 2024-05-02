@@ -1,0 +1,18 @@
+Git exp 4
+Create a new issue in github page 
+Add label, and other stuff in 
+Add description
+Commit issue
+Close issue
+git commit -m "Fix #1: Resolve issue with feature X"
+git push origin main
+
+
+
+Git exp 5 (forked)
+git clone ()
+cd reponame
+git add .
+git commit -m "msg"
+git push origin main
+git pull origin main
